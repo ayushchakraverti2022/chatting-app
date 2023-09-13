@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956764964789",
+    "project_id": "chatpro-d33e1",
+    "storage_bucket": "chatpro-d33e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956764964789:android:8a8407e953139ee8a17bfc",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX32FOronyKusIjuce82oGbjUPlAEj_9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
